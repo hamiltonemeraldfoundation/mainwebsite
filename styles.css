@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: #373737;
+    background-color: #188132;
     color: #fff5c2;
     display: flex;
     flex-direction: column;
@@ -30,7 +30,7 @@ p {
     padding: 10px 20px;
     font-size: 1em;
     background-color: #fff5c2;
-    color: #373737;
+    color: #188132;
     border: none;
     border-radius: 5px;
     cursor: pointer;
